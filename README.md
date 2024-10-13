@@ -4,16 +4,20 @@
 
 https://vk.com/faq18145
 
-![image](https://gist.github.com/user-attachments/assets/5ca56bce-539e-49f8-8f65-6dbc119cf7ee)
-![image](https://gist.github.com/user-attachments/assets/7622e43e-e23b-4310-8a37-b54c3af87220)
+![image](https://github.com/user-attachments/assets/698a2dc0-c3dc-42d8-bbfa-4e8cf685d2fc)
+![image](https://github.com/user-attachments/assets/282b4d7b-6986-4b1f-8d4c-a6e222fe4a64)
+
 
 Спустя несколько дней вам придет сообщение о том, что архив подготовлен и его можно скачать
-![image](https://gist.github.com/user-attachments/assets/c4224b41-ff0a-4f2b-aa6b-a4af14720fb8)
+![image](https://github.com/user-attachments/assets/82bdf53f-cd86-4099-a369-f339939f9609)
+
 
 Открываем архив, заходим в папку profile, видим html файлы с названием subscription0. Их мы и будем парсить.
 
-![image](https://gist.github.com/user-attachments/assets/9b5e8e8a-3ccd-4710-8f04-635b91f689be)
-![image](https://gist.github.com/user-attachments/assets/9d2a5cd4-4fbe-497d-ab02-d00d87d43743)
+![image](https://github.com/user-attachments/assets/544b62ba-b6ca-4c53-a1c4-2ba521dfe231)
+
+![image](https://github.com/user-attachments/assets/985ba51d-0abd-4d5e-8c1a-5e788d2fd42f)
+
 
 Код для обработки(кидаем его в папку profile, меняем название файла и запускаем):
 
@@ -66,5 +70,5 @@ File1.close()
 
 ```
 
-Получаем profile.csv, который читается екселем.
-![image](https://gist.github.com/user-attachments/assets/8d0cdda8-0f0c-4ca0-a002-276027a6b26d)
+Получаем profile.csv, который читается экселем - Все готово!
+![image](https://github.com/user-attachments/assets/b0dd57b7-f1d1-49ce-98e2-8cad966f69f6)
